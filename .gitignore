@@ -1,0 +1,8 @@
+# Build directories
+build
+
+# Testing artifacts
+*.png
+*.jpg
+*.jpeg
+*.gif
